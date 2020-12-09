@@ -2,5 +2,22 @@
 The Build Unity-Project
 # Instructions
 Download the zip for the platform that you want.
+
+###### Windows
+
 Windows users have to choose x86 or x86_64 depending on if their computer is 32-bit or 64-bit
 If unsure, choose x86
+
+###### Linux
+
+Linux users will need to open the terminal and to open the .sh with bash
+
+The Linux build is only for a 64-bit OS
+
+###### Mac OS X
+
+Please someone tell me what to do with the mac build I don't have Mac OS
+
+###### Android
+
+It's an apk.
