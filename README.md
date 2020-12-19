@@ -14,6 +14,10 @@ Linux users will need to open the terminal and to open the .sh with bash
 
 The Linux build is only for a 64-bit OS
 
+###### Web/Browser
+
+Open the index.html to run.
+
 ###### Mac OS X
 
 Please someone tell me what to do with the mac build I don't have Mac OS
