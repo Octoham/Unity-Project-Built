@@ -20,7 +20,7 @@ Open the index.html to run.
 
 ###### Mac OS X
 
-Please someone tell me what to do with the mac build I don't have Mac OS
+The .app is inside the zip file.
 
 ###### Android
 
