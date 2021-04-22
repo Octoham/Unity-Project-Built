@@ -1,7 +1,7 @@
 {
 "companyName": "Octoham Games",
 "productName": "Unity-Project",
-"productVersion": "a 0.0.7",
+"productVersion": "a 0.0.8",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
