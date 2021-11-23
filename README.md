@@ -10,7 +10,7 @@ If unsure, choose x86
 
 ###### Linux
 
-Linux users will need to open the terminal and to open the .sh with bash
+Linux users will need to open the terminal and to run the .sh with bash
 
 The Linux build is only for a 64-bit OS
 
